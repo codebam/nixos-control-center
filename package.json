@@ -21,7 +21,7 @@
     "@typescript-eslint/eslint-plugin": "^8.32.1",
     "@typescript-eslint/parser": "^8.32.1",
     "electron": "^36.2.1",
-    "electron-builder": "^26.0.12",
+    "electron-builder": "^26.6.0",
     "eslint": "^9.27.0",
     "prettier": "^3.5.3",
     "prettier-plugin-svelte": "^3.4.0",
